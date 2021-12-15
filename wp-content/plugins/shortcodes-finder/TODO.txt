@@ -1,0 +1,4 @@
+- Aggiungere link per installare direttamente gli altri miei plugin dalla pagina dei credits.
+	Es link: /wp-admin/plugin-install.php?s=shortcodes+finder+scribit&tab=search&type=term
+- Aggiungere hook filtro per poter modificare la query di ricerca su Google
+- Si potrebbe mettere il pulsante per cercare informazioni su Google anche per gli shortcode inutilizzati

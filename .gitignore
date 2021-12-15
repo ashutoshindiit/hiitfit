@@ -11,7 +11,11 @@ error_response.txt
 error_response_ios.txt
 php.ini
 .ftpquota
-/wp-content/*
+/wp-content/ai1wm-backups/*
+/wp-content/maintenance/*
+/wp-content/mu-plugins/*
+/wp-content/upgrade/*
+/wp-content/uploads/*
 wp-content.zip
 # Configuration
 wp-config.php

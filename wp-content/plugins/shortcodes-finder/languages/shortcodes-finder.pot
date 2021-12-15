@@ -1,0 +1,365 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Shortcodes Finder\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-12 11:58+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.3; wp-5.4.1"
+
+#: admin/partials/shortcodes-finder-admin-display.php:692
+msgid "18 languages supported."
+msgstr ""
+
+#: admin/partials/shortcodes-finder-admin-display.php:57
+msgid "About"
+msgstr ""
+
+#: admin/partials/shortcodes-finder-admin-display.php:682
+#: admin/partials/shortcodes-finder-admin-display.php:708
+msgid "Active"
+msgstr ""
+
+#: admin/partials/shortcodes-finder-admin-display.php:453
+msgid ""
+"All the shortcodes provided by your installed themes and plugins are listed "
+"here. Select one of these and, if expected, insert some options or content "
+"texts."
+msgstr ""
+
+#: admin/partials/shortcodes-finder-admin-display.php:878
+msgid "Class"
+msgstr ""
+
+#: admin/partials/shortcodes-finder-admin-display.php:660
+msgid "CONTACT US"
+msgstr ""
+
+#: admin/partials/shortcodes-finder-admin-display.php:498
+msgid "Copy to clipboard"
+msgstr ""
+
+#: admin/partials/shortcodes-finder-admin-display.php:600
+msgid "Disable existing shortcodes"
+msgstr ""
+
+#: admin/partials/shortcodes-finder-admin-display.php:585
+msgid "Disable unused/orphan shortcodes"
+msgstr ""
+
+#: admin/partials/shortcodes-finder-admin-display.php:562
+msgid "Dismiss this notice."
+msgstr ""
+
+#: admin/partials/shortcodes-finder-admin-display.php:51
+msgid "Documentation"
+msgstr ""
+
+#: admin/partials/shortcodes-finder-admin-display.php:653
+msgid "DONATE WITH PAYPAL"
+msgstr ""
+
+#: admin/partials/shortcodes-finder-admin-display.php:196
+#: admin/partials/shortcodes-finder-admin-display.php:309
+#: admin/partials/shortcodes-finder-admin-display.php:426
+msgid "Edit content"
+msgstr ""
+
+#: admin/partials/shortcodes-finder-admin-display.php:884
+msgid "Error"
+msgstr ""
+
+#: admin/partials/shortcodes-finder-admin-display.php:105
+msgid "Find all occurrences of each shortcodes in your site."
+msgstr ""
+
+#: admin/partials/shortcodes-finder-admin-display.php:235
+msgid ""
+"Find all shortcodes in your site, divided by posts, pages and other custom "
+"types."
+msgstr ""
+
+#: admin/partials/shortcodes-finder-admin-display.php:45
+msgid "Find by Content"
+msgstr ""
+
+#: admin/partials/shortcodes-finder-admin-display.php:42
+msgid "Find by Shortcode"
+msgstr ""
+
+#: admin/partials/shortcodes-finder-admin-display.php:191
+#: admin/partials/shortcodes-finder-admin-display.php:304
+#: admin/partials/shortcodes-finder-admin-display.php:823
+msgid "Find documentation"
+msgstr ""
+
+#: admin/partials/shortcodes-finder-admin-display.php:820
+msgid "Find in contents"
+msgstr ""
+
+#: shortcodes-finder.php:81
+msgid "Find Shortcodes"
+msgstr ""
+
+#: admin/partials/shortcodes-finder-admin-display.php:347
+msgid ""
+"Find the shortcodes in your site, coming from deleted or deactivated plugins "
+"and themes."
+msgstr ""
+
+#: admin/partials/shortcodes-finder-admin-display.php:48
+msgid "Find unused Shortcodes"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Find, test, disable, clean and get informations about the shortcodes in your "
+"Wordpress website posts, pages and custom contents."
+msgstr ""
+
+#: admin/partials/shortcodes-finder-admin-display.php:881
+msgid "Function"
+msgstr ""
+
+#: admin/partials/shortcodes-finder-admin-display.php:751
+msgid "Get documentation about shortcodes in your website."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.scribit.it/"
+msgstr ""
+
+#. URI of the plugin
+msgid ""
+"https://www.scribit.it/en/wordpress-plugins/find-wordpress-website-"
+"shortcodes-in-one-click/"
+msgstr ""
+
+#: admin/partials/shortcodes-finder-admin-display.php:644
+msgid "If you like our plugin please feel free to give us 5 stars :)"
+msgstr ""
+
+#: admin/partials/shortcodes-finder-admin-display.php:658
+msgid "If you want some information about our Company"
+msgstr ""
+
+#: admin/partials/shortcodes-finder-admin-display.php:651
+msgid "If you want to help us to improve our service please Donate a coffe"
+msgstr ""
+
+#: admin/partials/shortcodes-finder-admin-display.php:129
+#: admin/partials/shortcodes-finder-admin-display.php:260
+#: admin/partials/shortcodes-finder-admin-display.php:375
+msgid "Include not published contents"
+msgstr ""
+
+#: admin/partials/shortcodes-finder-admin-display.php:474
+msgid "Insert content (optional)"
+msgstr ""
+
+#: admin/partials/shortcodes-finder-admin-display.php:716
+msgid ""
+"Insert into your WordPress website one or more random contents coming from "
+"your posts. The source contents can be pages, posts or custom post types."
+msgstr ""
+
+#: admin/partials/shortcodes-finder-admin-display.php:470
+msgid "Insert parameters string (optional)"
+msgstr ""
+
+#: admin/partials/shortcodes-finder-admin-display.php:684
+#: admin/partials/shortcodes-finder-admin-display.php:710
+msgid "Install"
+msgstr ""
+
+#: admin/partials/shortcodes-finder-admin-display.php:691
+msgid ""
+"It gives you the possibility to check the correction of the texts inserted "
+"into posts, pages and drafts in less than a second!"
+msgstr ""
+
+#: admin/partials/shortcodes-finder-admin-display.php:771
+msgid ""
+"Load shortcode parameters (may cause errors based on the development of "
+"individual plugins/themes)"
+msgstr ""
+
+#: admin/partials/shortcodes-finder-admin-display.php:160
+msgid "No shortcode uses found"
+msgstr ""
+
+#: admin/partials/shortcodes-finder-admin-display.php:747
+msgid "No shortcodes found"
+msgstr ""
+
+#: admin/partials/shortcodes-finder-admin-display.php:773
+msgid ""
+"Note: Parameters are available only for shortcode sources using <i>"
+"shortcode_atts</i> function."
+msgstr ""
+
+#: admin/partials/shortcodes-finder-admin-display.php:349
+msgid "Note: Results may be incomplete or may contain false positives."
+msgstr ""
+
+#: admin/partials/shortcodes-finder-admin-display.php:107
+msgid ""
+"Note: The process may be slow if you search all shortcodes in a website with "
+"a lot of contents."
+msgstr ""
+
+#: includes/shortcodes-finder-utils.php:238
+msgid "Plugin"
+msgstr ""
+
+#: admin/partials/shortcodes-finder-admin-display.php:270
+#: admin/partials/shortcodes-finder-admin-display.php:385
+msgid "Progress"
+msgstr ""
+
+#: admin/partials/shortcodes-finder-admin-display.php:690
+msgid ""
+"Proofreading plugin allows you to improve the quality of your posts, pages "
+"and all your WordPress website."
+msgstr ""
+
+#: admin/partials/shortcodes-finder-admin-display.php:590
+msgid ""
+"Remove shortcode tags coming from deleted or deactivated plugins and themes."
+msgstr ""
+
+#: admin/partials/shortcodes-finder-admin-display.php:605
+msgid "Remove tags and contents from selected shortcodes."
+msgstr ""
+
+#: admin/partials/shortcodes-finder-admin-display.php:627
+msgid "Save settings"
+msgstr ""
+
+#: admin/partials/shortcodes-finder-admin-display.php:560
+msgid "Saving Error."
+msgstr ""
+
+#. Author of the plugin
+msgid "Scribit"
+msgstr ""
+
+#: admin/partials/shortcodes-finder-admin-display.php:243
+msgid "Search shortcodes into:"
+msgstr ""
+
+#: admin/partials/shortcodes-finder-admin-display.php:358
+msgid "Search unused shortcodes into:"
+msgstr ""
+
+#: admin/partials/shortcodes-finder-admin-display.php:461
+msgid "Select a Shortcode"
+msgstr ""
+
+#: admin/partials/shortcodes-finder-admin-display.php:758
+msgid "Select shortcode origin:"
+msgstr ""
+
+#: admin/partials/shortcodes-finder-admin-display.php:54
+#: admin/partials/shortcodes-finder-admin-display.php:574
+msgid "Settings"
+msgstr ""
+
+#: admin/partials/shortcodes-finder-admin-display.php:560
+msgid "Settings saved."
+msgstr ""
+
+#: admin/partials/shortcodes-finder-admin-display.php:486
+msgid "Shortcode code"
+msgstr ""
+
+#: admin/partials/shortcodes-finder-admin-display.php:488
+msgid "Shortcode copied to clipboard"
+msgstr ""
+
+#: admin/partials/shortcodes-finder-admin-display.php:118
+msgid "Shortcode to search:"
+msgstr ""
+
+#: admin/partials/shortcodes-finder-admin-display.php:169
+msgid "Shortcode uses found"
+msgstr ""
+
+#. Name of the plugin
+#: admin/class-shortcodes-finder-admin.php:133
+#: admin/class-shortcodes-finder-admin.php:134
+#: admin/partials/shortcodes-finder-admin-display.php:37
+msgid "Shortcodes Finder"
+msgstr ""
+
+#: shortcodes-finder.php:95
+msgid "Shortcodes Finder is powered by"
+msgstr ""
+
+#: admin/partials/shortcodes-finder-admin-display.php:784
+msgid "Shortcodes found:"
+msgstr ""
+
+#: admin/partials/shortcodes-finder-admin-display.php:166
+msgid "Shortcodes uses found"
+msgstr ""
+
+#: admin/partials/shortcodes-finder-admin-display.php:833
+msgid "Source file"
+msgstr ""
+
+#: admin/partials/shortcodes-finder-admin-display.php:479
+msgid "Test it"
+msgstr ""
+
+#: admin/partials/shortcodes-finder-admin-display.php:502
+msgid "Test result"
+msgstr ""
+
+#: admin/partials/shortcodes-finder-admin-display.php:204
+#: admin/partials/shortcodes-finder-admin-display.php:317
+#: admin/partials/shortcodes-finder-admin-display.php:826
+msgid "Test Shortcode"
+msgstr ""
+
+#: admin/partials/shortcodes-finder-admin-display.php:131
+#: admin/partials/shortcodes-finder-admin-display.php:262
+#: admin/partials/shortcodes-finder-admin-display.php:377
+msgid "The plugin will search in drafts, future, pending and private contents."
+msgstr ""
+
+#: includes/shortcodes-finder-utils.php:248
+msgid "Theme"
+msgstr ""
+
+#: admin/partials/shortcodes-finder-admin-display.php:667
+msgid "Try other Scribit plugins:"
+msgstr ""
+
+#: includes/shortcodes-finder-utils.php:261
+msgid "WordPress: Admin"
+msgstr ""
+
+#: includes/shortcodes-finder-utils.php:255
+msgid "WordPress: Front-end"
+msgstr ""
+
+#: admin/partials/shortcodes-finder-admin-display.php:646
+msgid "WRITE A PLUGIN REVIEW"
+msgstr ""
+
+#: admin/partials/shortcodes-finder-admin-display.php:717
+msgid ""
+"You can display different informations:<ul>\n"
+"\t\t\t\t\t\t   <li>A list of post titles</li>\n"
+"\t\t\t\t\t\t   <li>One or more full contents or excerpts</li>\n"
+"\t\t\t\t\t\t   <li>Raw URLs to posts permalink</li></ul>"
+msgstr ""

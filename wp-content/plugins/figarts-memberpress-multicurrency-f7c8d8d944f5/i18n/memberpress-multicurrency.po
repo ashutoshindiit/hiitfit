@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MemberPress MultiCurrency\n"
+"POT-Creation-Date: 2020-03-19 11:20+0400\n"
+"PO-Revision-Date: 2020-03-19 11:20+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-SearchPath-0: i18n\n"
+"X-Poedit-SearchPath-1: .\n"
+"X-Poedit-SearchPathExcluded-0: views/checkout\n"
+"X-Poedit-SearchPathExcluded-1: views/account\n"
+"X-Poedit-SearchPathExcluded-2: views/admin\n"
+
+#: controllers/MpmcAppCtrl.php:73
+msgid "Multicurrency Addon License"
+msgstr ""
+
+#: controllers/MpmcAppCtrl.php:78
+#, php-format
+msgid ""
+"MemberPress Multicurrency is a third party addon and requires a valid "
+"license to make it spin. <br/> If you don't have a License please go to %1$s "
+"to get one."
+msgstr ""
+
+#: controllers/MpmcAppCtrl.php:84
+msgid "MultiCurrency License Key:"
+msgstr ""
+
+#: controllers/MpmcAppCtrl.php:88
+msgid "Activate"
+msgstr ""
+
+#: controllers/MpmcAppCtrl.php:96
+msgid "Active License Key Information:"
+msgstr ""
+
+#: controllers/MpmcAppCtrl.php:99
+msgid "License Key:"
+msgstr ""
+
+#: controllers/MpmcAppCtrl.php:103
+msgid "Status:"
+msgstr ""
+
+#: controllers/MpmcAppCtrl.php:104
+#, php-format
+msgid "<b>Active on %s</b>"
+msgstr ""
+
+#: controllers/MpmcAppCtrl.php:107
+msgid "Product:"
+msgstr ""
+
+#: controllers/MpmcAppCtrl.php:115
+#, php-format
+msgid ""
+"Are you sure? MemberPress Multicurrency will not be fully functional on %s "
+"if this License Key is deactivated."
+msgstr ""
+
+#: controllers/MpmcAppCtrl.php:115
+msgid "Deactivate"
+msgstr ""
+
+#: controllers/MpmcAppCtrl.php:202 controllers/MpmcAppCtrl.php:234
+#: controllers/MpmcAppCtrl.php:296
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: controllers/MpmcAppCtrl.php:211
+#, php-format
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: controllers/MpmcAppCtrl.php:217
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: controllers/MpmcAppCtrl.php:220
+msgid "Invalid license."
+msgstr ""
+
+#: controllers/MpmcAppCtrl.php:224
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#: controllers/MpmcAppCtrl.php:228
+#, php-format
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: controllers/MpmcAppCtrl.php:231
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+#: lib/MpmcUpdater.php:243
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr ""
+
+#: lib/MpmcUpdater.php:251
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s "
+"or %5$supdate now%6$s."
+msgstr ""
+
+#: lib/MpmcUpdater.php:506
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: lib/MpmcUpdater.php:506
+msgid "Error"
+msgstr ""
+
+#: mepr-multicurrency.php:137
+msgid ""
+"MultiCurrency addon requires MemberPress 1.8.7 and above. Please update your "
+"MemberPress plugin."
+msgstr ""
