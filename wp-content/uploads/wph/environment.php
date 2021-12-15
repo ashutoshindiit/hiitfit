@@ -1,0 +1,2 @@
+<?php if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
+$environment_variable = '{"theme":{"folder_name":"bridge","mapped_name":"lashodaz"},"allowed_paths":["\/home\/hiitfit\/public_html\/wp-content\/themes"],"cache_path":"\/home\/hiitfit\/public_html\/wp-content\/cache\/wph\/","wordpress_directory":"","site_relative_path":"\/"}'; ?>

@@ -1,0 +1,11 @@
+				@font-face {
+					font-family: 'din';
+					src: url('/wp-content/uploads/useanyfont/4635din.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/4635din.woff') format('woff');
+				}
+
+				.din{font-family: 'din' !important;}
+
+				.et_gf_din{background:none !important;font-family:din;text-indent:0 !important;font-size:25px;}
+
+		

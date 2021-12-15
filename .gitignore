@@ -15,7 +15,6 @@ php.ini
 /wp-content/maintenance/*
 /wp-content/mu-plugins/*
 /wp-content/upgrade/*
-/wp-content/uploads/*
 wp-content.zip
 # Configuration
 wp-config.php
