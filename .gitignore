@@ -1,9 +1,7 @@
-/wp-admin/
-/wp-includes/
+
 /index.php
 /license.txt
 /readme.html
-/wp-*.php
 /xmlrpc.php
 adminer.php
 error_log
